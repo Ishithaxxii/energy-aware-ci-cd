@@ -1,8 +1,7 @@
 __pycache__/
 *.pyc
-.env
 venv/
+.env
 eco_reports/
-data/
 ml/energy_model.pkl
-.ipynb_checkpoints/
+
